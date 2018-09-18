@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyOrDie", "Assembly-CSharp.csproj", "{82FF9AC6-B1CF-29A7-F5DF-4FD7952335FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyOrDie", "Assembly-CSharp-Editor.csproj", "{5B2F753F-DC3D-0EEF-7AB2-C7491406DB42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82FF9AC6-B1CF-29A7-F5DF-4FD7952335FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FF9AC6-B1CF-29A7-F5DF-4FD7952335FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FF9AC6-B1CF-29A7-F5DF-4FD7952335FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FF9AC6-B1CF-29A7-F5DF-4FD7952335FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2F753F-DC3D-0EEF-7AB2-C7491406DB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2F753F-DC3D-0EEF-7AB2-C7491406DB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2F753F-DC3D-0EEF-7AB2-C7491406DB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2F753F-DC3D-0EEF-7AB2-C7491406DB42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
